@@ -1,0 +1,167 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5.5 5.5.3.2642 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Material_4
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 119.428
+map_Kd exdx.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material_2
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 103.968
+map_Kd exdx.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material_1
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 64
+map_Kd exdx.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl chrm.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material_10
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 64
+map_Kd exdx.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl chrm.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 36.7583
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__35
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material_5
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.568627 0.568627 0.568627
+illum 2
+Ns 2048
+map_Kd exflr.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material_3
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 42.2243
+d 0.61
+map_Kd exdx.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl chrm.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material_00
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 36.7583
+map_Kd magxl.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material01
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 32
+map_Kd magxl.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
